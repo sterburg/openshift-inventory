@@ -4,5 +4,5 @@ openshift_master_public_console_url=https://openshift-console.openshift.eu/conso
 openshift_master_api_url=https://openshift-console.openshift.eu
 openshift_master_console_url=https://openshift-console.openshift.eu/console/
 
-openshift_master_api_port=8443
-openshift_master_console_port=8443
+openshift_master_api_port=443
+openshift_master_console_port=443
